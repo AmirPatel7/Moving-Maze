@@ -1,2 +1,2 @@
 # Moving-Maze
-A game developed in Java that can be played in the terminal or through the GUI. The instructions on how to play is in the GUI of the game. When running, takes in 2 arguments, argument 1 is the file path to which board you would like to play on (I have included some on GitHub in this repo) and argument 2 is either "text" or "gui".
+A game developed in Java that can be played in the terminal or through the GUI. The instructions on how to play is in the GUI of the game. When running, takes in 2 arguments, argument 1 is the file path to which board you would like to play on (I have included some on GitHub in this repo) and argument 2 is either "text" or "gui". Delete the .class files, then compile and run "MovingMaze.java"
